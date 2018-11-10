@@ -1,0 +1,7 @@
+C:\Tapas\DevOps\DevOpsSimplifyConsoleApp\DevOpsSimplifyConsoleApp\bin\Debug\DevOpsSimplifyConsoleApp.exe.config
+C:\Tapas\DevOps\DevOpsSimplifyConsoleApp\DevOpsSimplifyConsoleApp\bin\Debug\DevOpsSimplifyConsoleApp.exe
+C:\Tapas\DevOps\DevOpsSimplifyConsoleApp\DevOpsSimplifyConsoleApp\bin\Debug\DevOpsSimplifyConsoleApp.pdb
+C:\Tapas\DevOps\DevOpsSimplifyConsoleApp\DevOpsSimplifyConsoleApp\obj\Debug\DevOpsSimplifyConsoleApp.csprojAssemblyReference.cache
+C:\Tapas\DevOps\DevOpsSimplifyConsoleApp\DevOpsSimplifyConsoleApp\obj\Debug\DevOpsSimplifyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Tapas\DevOps\DevOpsSimplifyConsoleApp\DevOpsSimplifyConsoleApp\obj\Debug\DevOpsSimplifyConsoleApp.exe
+C:\Tapas\DevOps\DevOpsSimplifyConsoleApp\DevOpsSimplifyConsoleApp\obj\Debug\DevOpsSimplifyConsoleApp.pdb
